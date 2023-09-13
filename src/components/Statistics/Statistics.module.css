@@ -1,0 +1,4 @@
+.statisticList {
+  display: flex;
+  flex-direction: column;
+}
